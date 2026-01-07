@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+##Design Decisions
+Philosophical Alignment: I prioritized "Disclosure over Verification" by implementing a prominent, high-contrast disclaimer in the Detail View and using neutral status labels (Published/Submitted) rather than authoritative labels (Approved/Verified).
+
+Visual Identity: The UI utilizes a high-density, low-saturation palette (Slate/Indigo) to convey institutional trust and clarity, typical of regulatory or financial platforms.
+
