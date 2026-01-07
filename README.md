@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-##Design Decisions
+## Design decisions
 Philosophical Alignment: I prioritized "Disclosure over Verification" by implementing a prominent, high-contrast disclaimer in the Detail View and using neutral status labels (Published/Submitted) rather than authoritative labels (Approved/Verified).
 
 Visual Identity: The UI utilizes a high-density, low-saturation palette (Slate/Indigo) to convey institutional trust and clarity, typical of regulatory or financial platforms.
